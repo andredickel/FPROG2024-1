@@ -1,0 +1,16 @@
+Java
+{
+	public static void main(String[] args) {
+		System.out.println("Hello World");
+	}
+}
+
+HTML, JS, CSS
+<html>
+<body>
+<h1>Hello World</h1>
+</body>
+</html>
+
+Python
+print ('Hello World')
