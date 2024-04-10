@@ -1,7 +1,7 @@
-n = int(input('Digite um número inteiro:'))
-n1 = int(input('Digite outro número inteiro:'))
+dividendo = float(input('Digite o número a ser dividido:'))
+divisor = float(input('Digite o número divisor:'))
 
-if n / n != 0:
+if dividendo / divisor != 0:
     print('Erro')
 
 else:
